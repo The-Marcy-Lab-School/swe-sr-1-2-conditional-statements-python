@@ -25,8 +25,8 @@ Write a short piece comparing the two. Cover all four:
 
 - How a conditional statement decides which branch runs, using the terms
   **control flow** and **conditional statement**.
-- What it means that running `measure_rain(3)` a thousand times gives the same
-  answer a thousand times.
+- What it means that a function built from `if` and `elif` gives the same
+  answer every single time you hand it the same input.
 - How a prediction engine arrives at its next word, and why the same prompt
   can give two different answers.
 - One task you would trust an `if` statement with and not a prediction engine,
